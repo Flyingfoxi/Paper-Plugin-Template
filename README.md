@@ -2,4 +2,4 @@
 
 # PluginTemplate
 
-A bootstrap plugin to use when creating high-performance plugins for PaperMC.
+A Template to Create simple and easy a PaperMC plugin
